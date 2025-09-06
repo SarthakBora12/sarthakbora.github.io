@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Restaurant Recommendation System",
+    "desc": "Developed a hybrid recommendation system using BERT and SVD on 2.5M+ Yelp reviews. Deployed with Streamlit for interactive user experience.",
+    "image": "Restaurant.png",
+    "category": "E-commerce",
+    "links": {
+      "view": "https://github.com/SarthakBora12/restaurant-recommendation-system",
+      "code": "https://github.com/SarthakBora12/restaurant-recommendation-system"
+    }
+  },
+  {
+    "name": "Dyslexia Detection from Eye Movements",
+    "desc": "Built ML models (SVM, Random Forest) to classify dyslexia using eye-tracking data. Achieved 91% accuracy for early diagnosis.",
+    "image": "Dyslexia.png",
+    "category": "Healthcare",
+    "links": {
+      "view": "https://github.com/SarthakBora12/dyslexia-detection",
+      "code": "https://github.com/SarthakBora12/dyslexia-detection"
+    }
+  },
+  {
+    "name": "Credit Risk Prediction",
+    "desc": "Used XGBoost and Logistic Regression to predict loan default risk from 500K+ financial records. Visualized risk tiers in Power BI.",
+    "image": "creditrisk.png",
+    "category": "Banking",
+    "links": {
+      "view": "https://github.com/SarthakBora12/credit-risk-prediction",
+      "code": "https://github.com/SarthakBora12/credit-risk-prediction"
+    }
+  },
+  {
+    "name": "BlackGold Analytics",
+    "desc": "Analyzed energy sector datasets to predict oil and gas production trends using time-series forecasting and regression models.",
+    "image": "blackgold.png",
+    "category": "Energy",
+    "links": {
+      "view": "https://github.com/SarthakBora12/blackgold-analytics",
+      "code": "https://github.com/SarthakBora12/blackgold-analytics"
+    }
+  },
+  {
+    "name": "GASTech Operations Dashboard",
+    "desc": "Analyzes operational data from GASTech Building to uncover patterns and improve energy efficiency using Python and Power BI.",
+    "image": "Gastech.png",
+    "category": "RemoteSensing",
+    "links": {
+      "view": "https://github.com/SarthakBora12/gastech-operations",
+      "code": "https://github.com/SarthakBora12/gastech-operations"
+    }
+  }
+]
