@@ -1,0 +1,142 @@
+[
+  {
+    "name": "AcuMedica - Medical Performance Dashboard",
+    "desc": "Comprehensive healthcare analytics dashboard delivering hospital KPIs, operational efficiency tracking, and patient performance insights through interactive visualizations.",
+    "image": "acumedia.jpg",
+    "category": "Healthcare",
+    "links": {
+      "view": "https://github.com/SarthakBora12/AcuMedica-Medical-Performance-Dashboard",
+      "code": "https://github.com/SarthakBora12/AcuMedica-Medical-Performance-Dashboard"
+    }
+  },
+  {
+    "name": "CareAllocate - Healthcare Resource Optimization",
+    "desc": "Data-driven healthcare resource allocation system optimizing hospital capacity, staff distribution, and operational workflows.",
+    "image": "acumedia.jpg",
+    "category": "Healthcare",
+    "links": {
+      "view": "https://github.com/SarthakBora12/CareAllocate-Healthcare-Resource-Allocation",
+      "code": "https://github.com/SarthakBora12/CareAllocate-Healthcare-Resource-Allocation"
+    }
+  },
+  {
+    "name": "Detection of Dyslexia Using Eye Movements",
+    "desc": "Machine learning-based diagnostic framework leveraging eye-tracking behavioral signals for early dyslexia detection.",
+    "image": "dyslexia.gif",
+    "category": "Healthcare",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Detection-of-Dyslexia-Based-on-Eye-Movements",
+      "code": "https://github.com/SarthakBora12/Detection-of-Dyslexia-Based-on-Eye-Movements"
+    }
+  },
+  {
+    "name": "Credit Risk Modelling",
+    "desc": "Predictive loan default classification model implementing financial risk scoring and advanced machine learning techniques.",
+    "image": "creditrisk.gif",
+    "category": "Banking",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Credit_Risk_Modelling",
+      "code": "https://github.com/SarthakBora12/Credit_Risk_Modelling"
+    }
+  },
+  {
+    "name": "FraudScope - Financial Fraud Intelligence",
+    "desc": "End-to-end fraud detection system identifying anomalous financial transactions using intelligent classification and risk analytics.",
+    "image": "fraudscope.png",
+    "category": "Banking",
+    "links": {
+      "view": "https://github.com/SarthakBora12/FraudScope-Financial-Fraud-Intelligence",
+      "code": "https://github.com/SarthakBora12/FraudScope-Financial-Fraud-Intelligence"
+    }
+  },
+  {
+    "name": "Black Gold Horizon - Oil Market Forecasting",
+    "desc": "Time-series forecasting and macroeconomic modeling framework to project oil market trends and energy price dynamics.",
+    "image": "blackgold.gif",
+    "category": "Banking",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Black-Gold-Horizon-Projecting-America-s-Oil-Future",
+      "code": "https://github.com/SarthakBora12/Black-Gold-Horizon-Projecting-America-s-Oil-Future"
+    }
+  },
+  {
+    "name": "Instacart - Market Basket Optimization",
+    "desc": "Association rule mining and customer purchasing pattern analysis to enhance product bundling and recommendation strategies.",
+    "image": "instacart.gif",
+    "category": "E-commerce",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Instacart-Market-Basket-Optimization_Cartwise",
+      "code": "https://github.com/SarthakBora12/Instacart-Market-Basket-Optimization_Cartwise"
+    }
+  },
+  {
+    "name": "Restaurant Recommendation System",
+    "desc": "Yelp-based recommendation engine leveraging collaborative filtering and content-based filtering to personalize dining suggestions.",
+    "image": "restaurant.gif",
+    "category": "E-commerce",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Restaurant-Recommendation-System-Using-Yelp-Data.",
+      "code": "https://github.com/SarthakBora12/Restaurant-Recommendation-System-Using-Yelp-Data."
+    }
+  },
+  {
+    "name": "Boston House Price Predictor",
+    "desc": "Regression-based property valuation model analyzing housing market features to predict real estate pricing trends.",
+    "image": "boston_homes.gif",
+    "category": "E-commerce",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Boston-House-Price-Predictor",
+      "code": "https://github.com/SarthakBora12/Boston-House-Price-Predictor"
+    }
+  },
+  {
+    "name": "Airbnb Visual Analytics",
+    "desc": "Exploratory data analysis platform uncovering pricing dynamics, location intelligence, and demand patterns in short-term rental markets.",
+    "image": "airbnb.png",
+    "category": "Marketing",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Airbnb-Visual-Analytics",
+      "code": "https://github.com/SarthakBora12/Airbnb-Visual-Analytics"
+    }
+  },
+  {
+    "name": "Spotify Data Analysis",
+    "desc": "User listening behavior analysis identifying music trends, audience segmentation, and engagement patterns.",
+    "image": "spotify.png",
+    "category": "Marketing",
+    "links": {
+      "view": "https://github.com/SarthakBora12/Spotify-Data-Analysis",
+      "code": "https://github.com/SarthakBora12/Spotify-Data-Analysis"
+    }
+  },
+  {
+    "name": "InfoSnip - Tailored News Summarization",
+    "desc": "AI-powered personalized news summarization engine leveraging NLP for intelligent content filtering and user-focused insights.",
+    "image": "infoship.jpg",
+    "category": "Marketing",
+    "links": {
+      "view": "https://github.com/SarthakBora12/InfoSnip-Tailored-News-Summarization",
+      "code": "https://github.com/SarthakBora12/InfoSnip-Tailored-News-Summarization"
+    }
+  },
+  {
+    "name": "F1Track - Real-Time Performance Analytics",
+    "desc": "Cloud-native real-time analytics pipeline built using Azure Databricks, Delta Lake, and Spark for driver and constructor performance monitoring.",
+    "image": "f1.gif",
+    "category": "Monitoring",
+    "links": {
+      "view": "https://github.com/SarthakBora12/F1Track-Real-Time-Performance-Analytics-Using-Databricks",
+      "code": "https://github.com/SarthakBora12/F1Track-Real-Time-Performance-Analytics-Using-Databricks"
+    }
+  },
+  {
+    "name": "GASTech - Building Operations Monitoring",
+    "desc": "Operational monitoring and anomaly detection system analyzing infrastructure performance and energy utilization patterns.",
+    "image": "gastech.gif",
+    "category": "Monitoring",
+    "links": {
+      "view": "https://github.com/SarthakBora12/GASTech-Building-Operations-Analysis",
+      "code": "https://github.com/SarthakBora12/GASTech-Building-Operations-Analysis"
+    }
+  }
+]

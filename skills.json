@@ -1,0 +1,180 @@
+[
+
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    { 
+        "name": "Scikit-learn", 
+        "icon": "https://img.icons8.com/color/48/000000/python.png" 
+    },
+    {
+        "name": "PyTorch",
+        "icon": "https://img.icons8.com/color/48/000000/pytorch.png"
+    },      
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    { 
+        "name": "Snowflake", 
+        "icon": "https://img.icons8.com/color/48/000000/snowflake.png" 
+    },
+    { 
+        "name": "dbt", 
+        "icon": "https://img.icons8.com/color/48/000000/data-configuration.png" 
+    },
+    { 
+        "name": "Apache Airflow", 
+        "icon": "https://img.icons8.com/color/48/000000/apache-airflow.png" 
+    },
+    { 
+        "name": "PySpark", 
+        "icon": "https://img.icons8.com/color/48/000000/apache-spark.png" 
+    },
+    { 
+        "name": "Databricks", 
+        "icon": "https://img.icons8.com/color/48/000000/cloud.png" 
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud.png" 
+    },
+    {
+        "name": "Microsoft Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure-1.png" 
+    },    
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+    },                  
+    { 
+        "name": "MLflow", 
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png" 
+    },
+    { 
+        "name": "Hugging Face", 
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png" 
+    },
+    { 
+        "name": "LangChain", 
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png" 
+    },
+    { 
+        "name": "OpenAI API", 
+        "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png" 
+    },
+    { 
+        "name": "Matplotlib", 
+        "icon": "https://img.icons8.com/color/48/000000/combo-chart--v1.png" 
+    },
+    { 
+        "name": "Seaborn", 
+        "icon": "https://img.icons8.com/color/48/000000/combo-chart--v1.png" 
+    },
+    { 
+        "name": "Plotly", 
+        "icon": "https://img.icons8.com/color/48/000000/combo-chart--v1.png" 
+    },
+    {
+        "name": "Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/google-analytics.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/tableau-software.png"
+    },
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"
+    },
+    { 
+        "name": "Git", 
+        "icon": "https://img.icons8.com/color/48/000000/git.png" 
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Jupyter",
+        "icon": "https://img.icons8.com/fluency/48/jupyter.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },  
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/000000/terraform.png"
+    },    
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/nolan/64/jira.png"
+    }
+
+                      
+]
+
+
+
+
+
+
+
+
+
+
+  
