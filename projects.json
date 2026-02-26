@@ -1,5 +1,15 @@
 [
   {
+  "name": "MeshTekAI - Conversational IoT Automation",
+  "desc": "Production-grade LLM-powered conversational AI system enabling natural language control of IoT outdoor lighting. Designed NLP pipelines that translate user prompts into deterministic JSON actions, supporting advanced scheduling logic, astronomical triggers, multi-year recurring events, and secure real-time API integrations at scale.",
+  "image": "meshtekai.gif",
+  "category": "Monitoring",
+  "links": {
+    "view": "https://github.com/SarthakBora12/Meshtek",
+    "code": "https://github.com/SarthakBora12/Meshtek"
+  }
+}
+  {
     "name": "AcuMedica - Medical Performance Dashboard",
     "desc": "Comprehensive healthcare analytics dashboard delivering hospital KPIs, operational efficiency tracking, and patient performance insights through interactive visualizations.",
     "image": "acumedia.jpg",
