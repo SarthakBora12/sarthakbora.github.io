@@ -121,7 +121,7 @@ function showProjects(projects) {
     // projects.slice(0, 15).filter(project => project.category != "android").forEach(project => {
     //     projectHTML += `
     //     <div class="box tilt">
-    //   <img draggable="false" src="./assets/images/Sarthakprojects/${project.image}" alt="project" />
+    //   <img draggable="false" src="assets/images/Sarthakprojects/${project.image}" alt="project" />
     //   <div class="content">
     //     <div class="tag">
     //     <h3>${project.name}</h3>
@@ -143,7 +143,7 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 350px; margin: 1rem">
-      <img draggable="false" src="./assets/images/Sarthakprojects/${project.image}" alt="project" />
+      <img draggable="false" src="assets/images/Sarthakprojects/${project.image}" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
