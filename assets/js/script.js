@@ -95,7 +95,7 @@ async function fetchData(type = "skills") {
     type === "skills" ?
         response = await fetch("skills.json")
         :
-        response = await fetch("./Sarthakfprojects.json")
+        response = await fetch("./projects.json")
     const data = await response.json();
     return data;
 }
@@ -176,7 +176,7 @@ function showProjects(projects) {
     });
 
     // /* SCROLL PROJECTS */
-    // srtop.reveal('.work .box', { interval: 200 });
+    // srtop.reveal('.workbox', { interval: 200 });
 
     // isotope filter products
     var $grid = $('.workbox-container').isotope({
