@@ -12,7 +12,7 @@
   {
     "name": "CareAllocate - Healthcare Resource Optimization",
     "desc": "Data-driven healthcare resource allocation system optimizing hospital capacity, staff distribution, and operational workflows.",
-    "image": "acumedia.jpg",
+    "image": "careallot.png",
     "category": "Healthcare",
     "links": {
       "view": "https://github.com/SarthakBora12/CareAllocate-Healthcare-Resource-Allocation",
